@@ -1,3 +1,4 @@
+````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Donma%20Hsu&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=The%20bug%20existed%20in%20all%20possible%20states.%20Until%20I%20ran%20the%20code.&descAlignY=60&descSize=18" />
 </p>
@@ -13,7 +14,7 @@
   <a href="https://github.com/donma">
     <img src="https://img.shields.io/badge/GitHub-donma-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Taipei-Taiwan-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Taiwan-Taipei-22c55e?style=for-the-badge" />
 </p>
 
 ---
@@ -32,7 +33,7 @@ I work mainly with C#, .NET, Razor Pages, static JSON, pure frontend apps, and A
 
 ## Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,bootstrap,jquery,github,cloudflare,workers,sqlite,visualstudio,vscode" />
 </p>
 
@@ -98,3 +99,46 @@ Pure frontend data tools
 C# backend architecture
 Static JSON database design
 Taiwan / Thai amulet / lunar calendar datasets
+````
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=donma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donma&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=donma&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## The bug existed in all possible states. Then the snake ate it.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/donma/donma/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/donma/donma/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/donma/donma/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## Philosophy
+
+```txt
+Theory is useful.
+Running code is better.
+A boring tool that actually works is stronger than a beautiful idea that never ships.
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0f172a&height=120&section=footer" />
+</p>
+```
