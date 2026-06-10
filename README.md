@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://blog.no2don.com">
-    <img src="https://img.shields.io/badge/Blog-blog.no2don.com-38bdf8?style=for-the-badge&logo=blogger&logoColor=white" />
+  <a href="https://donmalab.com>
+    <img src="https://img.shields.io/badge/Blog-dobmalab.com-38bdf8?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
   <a href="https://github.com/donma">
     <img src="https://img.shields.io/badge/GitHub-donma-181717?style=for-the-badge&logo=github" />
