@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Donma%20Hsu&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=The%20bug%20existed%20in%20all%20possible%20states.%20Until%20I%20ran%20the%20code.&descAlignY=60&descSize=18" />
 </p>
@@ -99,7 +98,7 @@ Pure frontend data tools
 C# backend architecture
 Static JSON database design
 Taiwan / Thai amulet / lunar calendar datasets
-````
+```
 
 ---
 
@@ -141,4 +140,3 @@ A boring tool that actually works is stronger than a beautiful idea that never s
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0f172a&height=120&section=footer" />
 </p>
-```
